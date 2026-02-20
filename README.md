@@ -87,7 +87,3 @@ You can change the URL and assertions later to practice.
 - Try running in different browsers: set `projects` in `playwright.config.js`
 - Capture screenshots on failure (see commented code in the config)
 - Commit and push changes to GitHub to show activity
-
----
-
-**All the best!** This repo is intentionally simple so you can upload it now and improve it gradually.
